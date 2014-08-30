@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eiriklv/hearsay-common.git"
+    "url": "git://github.com/risto/hearsay-common.git"
   },
   "keywords": [
     "scraper",
